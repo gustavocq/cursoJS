@@ -1,0 +1,38 @@
+body {
+    margin: 100px;    
+    color: white;
+    text: normal 15px Arial;
+    text-align: center;
+    background-color: #b6b6b2;    
+}
+header {
+    text-shadow: 2px 2px black;
+}
+
+footer {
+    text-shadow: 2px 2px black;
+}
+
+section { 
+    color: black;
+    background-color: white;
+    border-radius: 10px;
+    width: 450px;
+    height: 350px;
+    margin: 100px auto auto auto;
+    box-shadow: 5px 5px 5px 10px rgba(0, 0, 0, 0.13);               
+}
+
+footer {
+    margin-top: 150px;
+    font-style: italic;
+}
+
+div {
+    font: normal 20px Arial;
+    padding: 10px;
+}
+
+div#msgFinal {
+    padding: -30px;
+}
