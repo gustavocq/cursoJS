@@ -1,0 +1,56 @@
+body {
+    margin: 100px;    
+    color: white;
+    text: normal 15px Arial;
+    text-align: center;
+    background-color: #1558bb;
+}
+header {
+    text-shadow: 2px 2px black;
+}
+
+footer {
+    text-shadow: 2px 2px black;
+}
+
+section { 
+    color: black;
+    background-color: white;
+    border-radius: 10px;
+    width: 450px;
+    height: 500px;
+    margin: 100px auto auto auto;
+    box-shadow: 5px 5px 5px 10px rgba(0, 0, 0, 0.13);               
+}
+
+footer{
+    text-align: center;
+    margin-top: 150px;
+    font-style: italic;
+}
+
+div {
+    font: normal 20px Arial;
+    padding: 10px;
+}
+
+p {
+    padding: 5px;
+}
+
+p#adoles{
+    margin-top: -15px;
+}
+
+input {
+    text-align: left;
+}
+
+img{
+    margin-top: 10px;
+}
+
+img#adoles{
+    margin-top: -15px;
+}
+
